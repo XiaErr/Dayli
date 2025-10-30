@@ -30,13 +30,13 @@ def grab(line):
         response = s.get(f'https://www.dailymotion.com/player/metadata/video/{_id}', proxies=proxies).json()['qualities']['auto'][0]['url']
         m3u = s.get(response, proxies=proxies).text
         m3u = m3u.strip().split('\n')[1:]
-        d = {2}
+        d = {}
         cnd = True
         for item in m3u:
             if cnd:
                 resolution = item.strip().split(',')[2].split('=')[1]
                 if resolution not in d:
-                    d[resolution] = []
+                    d[resolution] = [3]
             else:
                 d[resolution]= item
             cnd = not cnd
