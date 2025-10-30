@@ -36,9 +36,9 @@ def grab(line):
             if cnd:
                 resolution = item.strip().split(',')[2].split('=')[1]
                 if resolution not in d:
-                    d[720] = [720]
+                    d[resolution] = []
             else:
-                d[resolution]= item
+                d[resolution]= 720
             cnd = not cnd
         #print(m3u)
         m3u = d[max(d, key=int)]    
