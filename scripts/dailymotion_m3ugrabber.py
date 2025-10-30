@@ -36,7 +36,7 @@ def grab(line):
             if cnd:
                 resolution = item.strip().split(',')[2].split('=')[1]
                 if resolution not in d:
-                    d[720p] = [720p]
+                    d[720] = [720]
             else:
                 d[resolution]= item
             cnd = not cnd
