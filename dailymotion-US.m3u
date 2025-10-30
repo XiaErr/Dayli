@@ -1,15 +1,5 @@
 #EXTM3U
 
-#########################################################################
-#      ____            _           _   __  __                           #
-#     |  _ \ _ __ ___ (_) ___  ___| |_|  \/  | ___   ___  ___  ___      #
-#     | |_) | '__/ _ \| |/ _ \/ __| __| |\/| |/ _ \ / _ \/ __|/ _ \     #
-#     |  __/| | | (_) | |  __/ (__| |_| |  | | (_) | (_) \__ \  __/     #
-#     |_|   |_|  \___// |\___|\___|\__|_|  |_|\___/ \___/|___/\___|     #
-#                   |__/                                                #
-#                                  >> https://github.com/benmoose39     #
-#########################################################################
-
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", VTV
 https://live.eu-north-1b.cf.dmcdn.net/sec2(vkm5rt7BKOzzTdQ5pkue3qGy4BUbbZ4dVdMTsuN88_nhB79d2Cp3gbpUhAthGaNXclkCJZFUu-Ssa0_zdOca8J2tHFE-iZt87oWkHj_MA9DTHfwhYBLjKnQ_bDq_ewFV)/dm/3/x930kre/d/live-380.m3u8#cell=lcf-eu-north-1b
