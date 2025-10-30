@@ -1,8 +1,18 @@
 #EXTM3U
 
+#########################################################################
+#      ____            _           _   __  __                           #
+#     |  _ \ _ __ ___ (_) ___  ___| |_|  \/  | ___   ___  ___  ___      #
+#     | |_) | '__/ _ \| |/ _ \/ __| __| |\/| |/ _ \ / _ \/ __|/ _ \     #
+#     |  __/| | | (_) | |  __/ (__| |_| |  | | (_) | (_) \__ \  __/     #
+#     |_|   |_|  \___// |\___|\___|\__|_|  |_|\___/ \___/|___/\___|     #
+#                   |__/                                                #
+#                                  >> https://github.com/benmoose39     #
+#########################################################################
+
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", VTV
-https://live.eu-north-1b.cf.dmcdn.net/sec2(vkm5rt7BKOzzTdQ5pkue3qGy4BUbbZ4dVdMTsuN88_nhB79d2Cp3gbpUhAthGaNXclkCJZFUu-Ssa0_zdOca8J2tHFE-iZt87oWkHj_MA9DTHfwhYBLjKnQ_bDq_ewFV)/dm/3/x930kre/d/live-380.m3u8#cell=lcf-eu-north-1b
+https://live.eu-north-1b.cf.dmcdn.net/sec2(VT0cb9AMfzv7dfYpNHXdJTcAPtuheEBQyHhnnW511cZywMCMnVQYjxfQLSlcMqYQFqeartkkyapGh697ZscUoyPXCTvC7jjinWDCirg5qyQQy0NaOiLldOBIaScyWsX2)/dm/3/x930kre/d/live-380.m3u8#cell=lcf-eu-north-1b
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-id="", tvOne
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+#EXTINF:-1 group-title="" tvg-logo="" tvg-id="", TeleSur
+https://live.eu-north-1b.cf.dmcdn.net/sec2(i6oqmcawOOkhHVUo--JblFzV6_iSAFq3FEyT0LR-i7mWY94Eby31194BIOTSyus4OMtGdb7iesrY2C6sGiAqrQwsS3gH9i8n0yuuR3dytXMkIHB8DQQAAEnhon5dz-7i)/dm/3/x82ug5r/s/live-380.m3u8#cell=lcf-eu-north-1b
